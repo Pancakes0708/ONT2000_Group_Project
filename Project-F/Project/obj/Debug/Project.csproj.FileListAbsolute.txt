@@ -48,3 +48,6 @@ C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Proje
 C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
 C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.exe
 C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\aketa\Desktop\ONT2000_Group_Project\Project-F\Project\bin\Debug\Project.exe.config
+C:\Users\aketa\Desktop\ONT2000_Group_Project\Project-F\Project\obj\Debug\Project.exe
+C:\Users\aketa\Desktop\ONT2000_Group_Project\Project-F\Project\obj\Debug\Project.pdb

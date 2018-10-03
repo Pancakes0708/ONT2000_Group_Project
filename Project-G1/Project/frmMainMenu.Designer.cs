@@ -37,6 +37,7 @@
             this.btnSuDetails = new System.Windows.Forms.Button();
             this.btnAssTaskDetails = new System.Windows.Forms.Button();
             this.btnProDetails = new System.Windows.Forms.Button();
+            this.btnRecover = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblProjectSystem
@@ -139,12 +140,23 @@
             this.btnProDetails.UseVisualStyleBackColor = true;
             this.btnProDetails.Click += new System.EventHandler(this.btnProDetails_Click);
             // 
+            // btnRecover
+            // 
+            this.btnRecover.Location = new System.Drawing.Point(744, 411);
+            this.btnRecover.Name = "btnRecover";
+            this.btnRecover.Size = new System.Drawing.Size(75, 23);
+            this.btnRecover.TabIndex = 9;
+            this.btnRecover.Text = "Recover Deleted";
+            this.btnRecover.UseVisualStyleBackColor = true;
+            this.btnRecover.Click += new System.EventHandler(this.btnRecover_Click);
+            // 
             // frmMainMenu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Project.Properties.Resources.acceleration_of_acceleration_future_tech_1_1440x598;
             this.ClientSize = new System.Drawing.Size(879, 470);
+            this.Controls.Add(this.btnRecover);
             this.Controls.Add(this.btnProDetails);
             this.Controls.Add(this.btnAssTaskDetails);
             this.Controls.Add(this.btnSuDetails);
@@ -173,5 +185,6 @@
         private System.Windows.Forms.Button btnSuDetails;
         private System.Windows.Forms.Button btnAssTaskDetails;
         private System.Windows.Forms.Button btnProDetails;
+        private System.Windows.Forms.Button btnRecover;
     }
 }

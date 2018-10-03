@@ -50,6 +50,11 @@ namespace Project
             frmBuddyRating BuddyRatingForm = new frmBuddyRating();
             BuddyRatingForm.Show();
         }
+        public void RecoveryForm()
+        {
+            frmRecovery RecoveryForm = new frmRecovery();
+            RecoveryForm.Show();
+        }
         /*
         public void MainMenuForm()
         {

@@ -69,5 +69,15 @@ namespace Project
         {
             return dl.DeleteProjectTask(taskID);
         }
+
+        public DataTable GetDeletedProjectTasks()
+        {
+            return dl.GetDeletedProjectTasks();
+        }
+
+        public void RecoverProjectTask(string projectTaskID)
+        {
+            dl.RecoverProjectTask(projectTaskID);
+        }
     }
 }

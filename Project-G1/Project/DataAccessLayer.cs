@@ -281,5 +281,132 @@ namespace Project
             int x = dbCmd.ExecuteNonQuery();
             return x;
         }
+
+        //====================================================================RECOVER METHODS====================================================================
+        //Recovery for Students - display
+        public DataTable GetDeletedStudents()
+        {
+            if (dbConn.State == ConnectionState.Closed)
+            {
+                dbConn.Open();
+            }
+            dbCmd = new SqlCommand("sp_GetDeletedStudents", dbConn);
+            dbAdapter = new SqlDataAdapter(dbCmd);
+            DataTable dtStudents = new DataTable();
+            dbAdapter.Fill(dtStudents);
+            return dtStudents;
+        }
+        //Recovery for Students - recover
+        public int RecoverStudent(string studentID)
+        {
+            if (dbConn.State == ConnectionState.Closed)
+            {
+                dbConn.Open();
+            }
+            string sqlRecover = "sp_RecoverStudent '" + studentID + "'";
+            dbCmd = new SqlCommand(sqlRecover, dbConn);
+            int x = dbCmd.ExecuteNonQuery();
+            return x;
+        }
+        //Recovery for Supervisors - display
+        public DataTable GetDeletedSupervisors()
+        {
+            if (dbConn.State == ConnectionState.Closed)
+            {
+                dbConn.Open();
+            }
+            dbCmd = new SqlCommand("sp_GetDeletedSupervisors", dbConn);
+            dbAdapter = new SqlDataAdapter(dbCmd);
+            DataTable dtSupervisors = new DataTable();
+            dbAdapter.Fill(dtSupervisors);
+            return dtSupervisors;
+        }
+        //Recovery for Supervisors - recover
+        public int RecoverSupervisor(string supervisorID)
+        {
+            if (dbConn.State == ConnectionState.Closed)
+            {
+                dbConn.Open();
+            }
+            string sqlRecover = "sp_RecoverSupervisor '" + supervisorID + "'";
+            dbCmd = new SqlCommand(sqlRecover, dbConn);
+            int x = dbCmd.ExecuteNonQuery();
+            return x;
+        }
+        //Recovery for Project-Task - display
+        public DataTable GetDeletedProjectTasks()
+        {
+            if (dbConn.State == ConnectionState.Closed)
+            {
+                dbConn.Open();
+            }
+            dbCmd = new SqlCommand("sp_GetDeletedProjectTasks", dbConn);
+            dbAdapter = new SqlDataAdapter(dbCmd);
+            DataTable dtProjectTasks = new DataTable();
+            dbAdapter.Fill(dtProjectTasks);
+            return dtProjectTasks;
+        }
+        //Recovery for Project-Task - recover
+        public int RecoverProjectTask(string projectTaskID)
+        {
+            if (dbConn.State == ConnectionState.Closed)
+            {
+                dbConn.Open();
+            }
+            string sqlRecover = "sp_RecoverProjectTask '" + projectTaskID + "'";
+            dbCmd = new SqlCommand(sqlRecover, dbConn);
+            int x = dbCmd.ExecuteNonQuery();
+            return x;
+        }
+        //Recovery for Project-Group - display
+        public DataTable GetDeletedProjectGroups()
+        {
+            if (dbConn.State == ConnectionState.Closed)
+            {
+                dbConn.Open();
+            }
+            dbCmd = new SqlCommand("sp_GetDeletedProjectGroups", dbConn);
+            dbAdapter = new SqlDataAdapter(dbCmd);
+            DataTable dtProjectGroups = new DataTable();
+            dbAdapter.Fill(dtProjectGroups);
+            return dtProjectGroups;
+        }
+        //Recovery for Project-Group - recover
+        public int RecoverProjectGroup(string projectGroupID)
+        {
+            if (dbConn.State == ConnectionState.Closed)
+            {
+                dbConn.Open();
+            }
+            string sqlRecover = "sp_RecoverProjectGroup '" + projectGroupID + "'";
+            dbCmd = new SqlCommand(sqlRecover, dbConn);
+            int x = dbCmd.ExecuteNonQuery();
+            return x;
+        }
+        //Recovery for Project - display
+        public DataTable GetDeletedProjects()
+        {
+            if (dbConn.State == ConnectionState.Closed)
+            {
+                dbConn.Open();
+            }
+            dbCmd = new SqlCommand("sp_GetDeletedProjects", dbConn);
+            dbAdapter = new SqlDataAdapter(dbCmd);
+            DataTable dtProjects = new DataTable();
+            dbAdapter.Fill(dtProjects);
+            return dtProjects;
+        }
+        //Recovery for Project - recover
+        public int RecoverProject(string projectID)
+        {
+            if (dbConn.State == ConnectionState.Closed)
+            {
+                dbConn.Open();
+            }
+            string sqlRecover = "sp_RecoverProject '" + projectID + "'";
+            dbCmd = new SqlCommand(sqlRecover, dbConn);
+            int x = dbCmd.ExecuteNonQuery();
+            return x;
+        }
     }
 }

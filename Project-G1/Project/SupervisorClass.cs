@@ -35,5 +35,15 @@ namespace Project
         {
             dl.DeleteSupervisor(supervisorID);
         }
+
+        public DataTable GetDeletedSupervisors()
+        {
+            return dl.GetDeletedSupervisors();
+        }
+
+        public void RecoverSupervisor(string SupervisorID)
+        {
+            dl.RecoverSupervisor(SupervisorID);
+        }
     }
 }

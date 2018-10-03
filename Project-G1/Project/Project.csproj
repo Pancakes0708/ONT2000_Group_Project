@@ -83,6 +83,12 @@
     <Compile Include="frmProjectTask.Designer.cs">
       <DependentUpon>frmProjectTask.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmRecovery.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRecovery.Designer.cs">
+      <DependentUpon>frmRecovery.cs</DependentUpon>
+    </Compile>
     <Compile Include="GroupClass.cs" />
     <Compile Include="MainMenuClass.cs" />
     <Compile Include="Program.cs" />
@@ -129,6 +135,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmProjectTask.resx">
       <DependentUpon>frmProjectTask.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRecovery.resx">
+      <DependentUpon>frmRecovery.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

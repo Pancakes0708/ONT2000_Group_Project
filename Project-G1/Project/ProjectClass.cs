@@ -83,5 +83,15 @@ namespace Project
         {
             return dl.DeleteProject(id);
         }
+
+        public DataTable GetDeletedProjects()
+        {
+            return dl.GetDeletedProjects();
+        }
+
+        public void RecoverProject(string ProjectID)
+        {
+            dl.RecoverProject(ProjectID);
+        }
     }
 }

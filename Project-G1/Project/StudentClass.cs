@@ -34,5 +34,15 @@ namespace Project
         {
             dl.DeleteStudent(StudentID);
         }
+
+        public DataTable GetDeletedStudents()
+        {
+            return dl.GetDeletedStudents();
+        }
+
+        public void RecoverStudent(string StudentID)
+        {
+            dl.RecoverStudent(StudentID);
+        }
     }
 }

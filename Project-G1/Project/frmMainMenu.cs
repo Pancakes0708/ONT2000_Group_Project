@@ -64,5 +64,10 @@ namespace Project
         {
 
         }
+
+        private void btnRecover_Click(object sender, EventArgs e)
+        {
+            m.RecoveryForm();
+        }
     }
 }

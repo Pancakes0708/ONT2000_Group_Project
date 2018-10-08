@@ -1,0 +1,96 @@
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\bin\Debug\Project.exe.config
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\bin\Debug\Project.exe
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\bin\Debug\Project.pdb
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\obj\Debug\Project.Project.resources
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\obj\Debug\Project.exe
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\obj\Debug\Project.pdb
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\obj\Debug\Project.frmStudent.resources
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\obj\Debug\Project.frmAssignment.resources
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\obj\Debug\Project.frmAssignmentTask.resources
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\obj\Debug\Project.frmBuddyRating.resources
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\obj\Debug\Project.frmProjectTask.resources
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\obj\Debug\Project.frmProjectGroup.resources
+C:\Desiré\Varsity\2nd Year SD\Modules\ONT2000 - Development Software II\PROJECT\Project\Project\obj\Debug\Project.frmSupervisor.resources
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\obj\Debug\Project.exe
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\obj\Debug\Project.pdb
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\bin\Debug\Project.exe
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\bin\Debug\Project.pdb
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\obj\Debug\Project.frmAssignment.resources
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\obj\Debug\Project.frmAssignmentTask.resources
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\obj\Debug\Project.frmBuddyRating.resources
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\obj\Debug\Project.Project.resources
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\obj\Debug\Project.frmProjectGroup.resources
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\obj\Debug\Project.frmProjectTask.resources
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\obj\Debug\Project.frmStudent.resources
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\obj\Debug\Project.frmSupervisor.resources
+C:\Users\Desiré\Desktop\PROJECT STUFF\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\bin\Debug\Project.exe.config
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\bin\Debug\Project.exe
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\bin\Debug\Project.pdb
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.frmAssignment.resources
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.frmAssignmentTask.resources
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.frmBuddyRating.resources
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.frmMainMenu.resources
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.Project.resources
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.frmProjectGroup.resources
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.frmProjectTask.resources
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.frmStudent.resources
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.frmSupervisor.resources
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.exe
+C:\Users\User\Documents\Nelson Mandela University 2nd Year\ONT2000\Project\Project\Project\obj\Debug\Project.pdb
+C:\Users\aketa\Desktop\ONT2000_Group_Project\Project-F\Project\bin\Debug\Project.exe.config
+C:\Users\aketa\Desktop\ONT2000_Group_Project\Project-F\Project\obj\Debug\Project.exe
+C:\Users\aketa\Desktop\ONT2000_Group_Project\Project-F\Project\obj\Debug\Project.pdb
+C:\Users\aketa\Desktop\Project-F\Project\bin\Debug\Project.exe.config
+C:\Users\aketa\Desktop\Project-F\Project\obj\Debug\Project.exe
+C:\Users\aketa\Desktop\Project-F\Project\obj\Debug\Project.pdb
+C:\Users\aketa\Documents\ONT2000_Group_Project\Project-G\Project\bin\Debug\Project.exe.config
+C:\Users\aketa\Documents\ONT2000_Group_Project\Project-G\Project\obj\Debug\Project.exe
+C:\Users\aketa\Documents\ONT2000_Group_Project\Project-G\Project\obj\Debug\Project.pdb
+D:\ONT2000\Project-G\Project\bin\Debug\Project.exe.config
+D:\ONT2000\Project-G\Project\bin\Debug\Project.exe
+D:\ONT2000\Project-G\Project\bin\Debug\Project.pdb
+D:\ONT2000\Project-G\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\ONT2000\Project-G\Project\obj\Debug\Project.frmAssignment.resources
+D:\ONT2000\Project-G\Project\obj\Debug\Project.frmAssignmentTask.resources
+D:\ONT2000\Project-G\Project\obj\Debug\Project.frmBuddyRating.resources
+D:\ONT2000\Project-G\Project\obj\Debug\Project.frmMainMenu.resources
+D:\ONT2000\Project-G\Project\obj\Debug\Project.Project.resources
+D:\ONT2000\Project-G\Project\obj\Debug\Project.frmProjectGroup.resources
+D:\ONT2000\Project-G\Project\obj\Debug\Project.frmProjectTask.resources
+D:\ONT2000\Project-G\Project\obj\Debug\Project.Properties.Resources.resources
+D:\ONT2000\Project-G\Project\obj\Debug\Project.frmStudent.resources
+D:\ONT2000\Project-G\Project\obj\Debug\Project.frmSupervisor.resources
+D:\ONT2000\Project-G\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\ONT2000\Project-G\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\ONT2000\Project-G\Project\obj\Debug\Project.exe
+D:\ONT2000\Project-G\Project\obj\Debug\Project.pdb
+D:\ONT2000\Project-G1\Project\bin\Debug\Project.exe.config
+D:\ONT2000\Project-G1\Project\bin\Debug\Project.exe
+D:\ONT2000\Project-G1\Project\bin\Debug\Project.pdb
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.frmAssignment.resources
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.frmAssignmentTask.resources
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.frmBuddyRating.resources
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.frmMainMenu.resources
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.Project.resources
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.frmProjectGroup.resources
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.frmProjectTask.resources
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.frmRecovery.resources
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.Properties.Resources.resources
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.frmStudent.resources
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.frmSupervisor.resources
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.exe
+D:\ONT2000\Project-G1\Project\obj\Debug\Project.pdb
